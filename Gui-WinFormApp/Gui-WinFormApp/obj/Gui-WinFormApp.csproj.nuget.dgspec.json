@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\Gui-WinFormApp\\Gui-WinFormApp\\Gui-WinFormApp.csproj": {}
+    "C:\\Users\\darkb\\OneDrive\\Documents\\GitHub\\CSharp-Assignment4\\Gui-WinFormApp\\Gui-WinFormApp\\Gui-WinFormApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\Gui-WinFormApp\\Gui-WinFormApp\\Gui-WinFormApp.csproj": {
+    "C:\\Users\\darkb\\OneDrive\\Documents\\GitHub\\CSharp-Assignment4\\Gui-WinFormApp\\Gui-WinFormApp\\Gui-WinFormApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Gui-WinFormApp\\Gui-WinFormApp\\Gui-WinFormApp.csproj",
+        "projectUniqueName": "C:\\Users\\darkb\\OneDrive\\Documents\\GitHub\\CSharp-Assignment4\\Gui-WinFormApp\\Gui-WinFormApp\\Gui-WinFormApp.csproj",
         "projectName": "Gui-WinFormApp",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\Gui-WinFormApp\\Gui-WinFormApp\\Gui-WinFormApp.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\Gui-WinFormApp\\Gui-WinFormApp\\obj\\",
+        "projectPath": "C:\\Users\\darkb\\OneDrive\\Documents\\GitHub\\CSharp-Assignment4\\Gui-WinFormApp\\Gui-WinFormApp\\Gui-WinFormApp.csproj",
+        "packagesPath": "C:\\Users\\darkb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darkb\\OneDrive\\Documents\\GitHub\\CSharp-Assignment4\\Gui-WinFormApp\\Gui-WinFormApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\darkb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

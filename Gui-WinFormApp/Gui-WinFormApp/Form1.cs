@@ -94,5 +94,10 @@ namespace Gui_WinFormApp
         {
 
         }
+
+        private void lbl_addItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
